@@ -1,3 +1,6 @@
 [submodule "user-ms"]
 	path = user-ms
 	url = https://github.com/dev-elliotesco/user-ms
+[submodule "bike-ms"]
+	path = bike-ms
+	url = https://github.com/dev-elliotesco/bike-ms
