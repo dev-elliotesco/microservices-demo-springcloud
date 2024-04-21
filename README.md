@@ -7,6 +7,8 @@ Para obtener más información sobre la arquitectura y otros microservicios rela
 1. [User-MS](https://github.com/dev-elliotesco/user-ms)
 2. [Car-MS](https://github.com/dev-elliotesco/car-ms)
 3. [Bike-MS](https://github.com/dev-elliotesco/bike-ms)
+4. [Config-Service](https://github.com/dev-elliotesco/confg-service)
+5. [Eureka-Service](https://github.com/dev-elliotesco/eureka-service)
 
 
 ## Requisitos
@@ -22,6 +24,7 @@ Para obtener más información sobre la arquitectura y otros microservicios rela
 - Spring Security con JWT
 - MySQL
 - PostgreSQL
+- Swagger
 - Docker
 
 
@@ -29,7 +32,7 @@ Para obtener más información sobre la arquitectura y otros microservicios rela
 
 En el siguiente diagrama se representa la arquitectura de microservicios utilizada en este proyecto. La arquitectura está compuesta por varios componentes, incluyendo servicios web, bases de datos, API Gateway y más. 
 
-
+...
 
 ## Instalación &  Ejecución
 ...
