@@ -4,3 +4,6 @@
 [submodule "bike-ms"]
 	path = bike-ms
 	url = https://github.com/dev-elliotesco/bike-ms
+[submodule "car-ms"]
+	path = car-ms
+	url = https://github.com/dev-elliotesco/car-ms
