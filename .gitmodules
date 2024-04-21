@@ -7,3 +7,6 @@
 [submodule "car-ms"]
 	path = car-ms
 	url = https://github.com/dev-elliotesco/car-ms
+[submodule "eureka-service"]
+	path = eureka-service
+	url = https://github.com/dev-elliotesco/eureka-service
